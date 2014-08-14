@@ -1,2 +1,2 @@
-dailyProgrammer
+reddit's daily programmer exercises
 ===============
